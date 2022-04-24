@@ -1,4 +1,4 @@
-<h1>Hi, I'm AAshraf  👋</h1>
+<h1>Hi, I'm Ashraf  👋</h1>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/ahmed-ashraf-24a673107/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmed-ashraf-24a673107/" height="30" width="40" /></a>
