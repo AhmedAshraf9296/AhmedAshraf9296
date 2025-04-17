@@ -4,12 +4,6 @@
   <a href="https://www.linkedin.com/in/ahmed-ashraf-24a673107/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://facebook.com/modygooool" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/a_ashraf9296" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" />
-  </a>
 </p>
 
 ![App Screenshot](https://miro.medium.com/v2/resize:fit:1400/1*GPQ7MDPCOdpdJSXP2f3Jjw.png)
@@ -27,7 +21,6 @@
 - 🔧 Tech Stack: **Node.js**, **NestJS**, **TypeScript**, **React.js**, **PostgreSQL**, **MongoDB**
 - 🌐 I build scalable web apps, REST/GraphQL APIs, and real-time services.
 - 🛠️ Experience with DevOps, Docker, CI/CD, and microservice architecture.
-- 📚 Currently exploring **event-driven systems** and **distributed architectures**.
 - 💼 All my projects live at: [github.com/AhmedAshraf9296](https://github.com/AhmedAshraf9296)
 - 📫 Reach me at: **a.ashraf9296@gmail.com**
 - 📄 My resume: [View CV](https://drive.google.com/file/d/1IebDUIu8aWdaG1iAxul1S9mxGDXMziJN/view?usp=sharing)
